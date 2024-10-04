@@ -71,17 +71,17 @@ void displayResume(const PersonalInfo& person, const Education& edu, const Exper
 int main() {
     // Personal Info
     PersonalInfo person = {
-        "John Doe",
-        "123 Main St, Hometown, Country",
-        "john.doe@email.com",
+        "Yash Mane",
+        "Baramati , Pune,
+        "yashman@mail.com",
         "+123-456-7890"
     };
 
     // Education
     Education edu = {
-        "Bachelor of Science in Computer Science",
-        "Hometown University",
-        "2023",
+        "Bachelor of Science in AI",
+        "Pune University",
+        "2027",
         "3.8"
     };
 
